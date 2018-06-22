@@ -2,8 +2,7 @@ class Demo{
 	
 	public static void main(String[] args){
 		System.out.println("nihao");
-		//又做了一些改动
-		System.println
+		System.out.println("使用idea更改了这个文件");
 		
 	}
 }
