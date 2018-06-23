@@ -5,6 +5,12 @@ public class Demo {
         //xiugai
         System.out.println();
         //又改来
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
+        System.out.println();
     }
 
 }
